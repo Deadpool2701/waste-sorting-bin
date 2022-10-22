@@ -133,8 +133,8 @@ void loop()
 
 void welcome()
 {
-  lcd.print("WELCOME TO Z.W.I.T");
-  Serial.println("wlcometo zwit");
+  lcd.print("WELCOME TO Smart-Bin");
+  Serial.println("welcome to Smart-Bin");
   lcd.setCursor(0, 1);
   lcd.print(" SMART BIN");
   delay(1000);
@@ -216,7 +216,7 @@ int rewardq()
       int butt = Serial.parseInt();
       if (butt == 1)
       {
-        Serial.println("gjghjhgjgj");
+        Serial.println("---");
         for (int pos = 180; pos >= 0; pos -= 1)
         { // goes from 0 degrees to 180 degrees
           // in steps of 1 degree

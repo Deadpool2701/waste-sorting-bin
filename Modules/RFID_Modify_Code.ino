@@ -62,7 +62,7 @@ void loop()
  
  else if (content.substring(1) == "15 C2 F5 2B") 
  {
-  Serial.println("Welcome Adithya ");
+  Serial.println("Welcome Amogh ");
   
  }
  else{
