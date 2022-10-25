@@ -22,6 +22,8 @@ The bin also measures the live status of the compartments,when the bin is full i
  
 **Smart-BIN** is fully automated and hence the user doesn’t need to worry about the selection of the type of waste that he puts into the bin. The bin **automatically** detects the type of waste and puts it into the corresponding compartment. This is done using artificial intelligence with an accuracy of **90.34%**. There is also a proper monitoring and reporting system within the app.
 
+Dataset Used: https://drive.google.com/drive/folders/1CTvT_gnTvwlcKwJ8yz4jUOs0JYTKrplA
+
 # WORKING METHOD
 
 As mentioned above, this is an IoT based automatic waste segregation, collection and, management system in the form of a smart bin. 
