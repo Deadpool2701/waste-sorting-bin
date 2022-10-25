@@ -1,8 +1,7 @@
 
 #### Automated Waste Segregation and Mananagement System 
 
-
-
+Made by Amogh Mohta
 
 ## Tech Stack
 - Deep Multiple Instance Learning 
@@ -55,4 +54,4 @@ As mentioned above, this is an IoT based automatic waste segregation, collection
 + Users can download a mobile app to monitor their waste generation and pay for it accordingly.
 + Large industries have huge amounts of waste generated on a daily basis transportation of which requires extra manpower and resource wastage.
 + Industries hence don’t follow proper protocols and cause pollution, but with this system all users will have an unique ID assigned to them and they will be charged solely based on the amount of waste generated.
-+ The upfront cost for this is well worth the long term benefits the system will provide by reducing
++ The upfront cost for this is well worth the long term benefits the system will provide by reducing costs, power usage, pollution, improving hygiene and efficiency.
